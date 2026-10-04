@@ -1,0 +1,2 @@
+n_cases,max_smin_rel_error,max_directional_rel_error,min_certificate_slack,tolerance_rel,pass_smin,pass_directional
+168,1.3371028889697016e-11,8.22666379463044e-11,-1.9598489497951732e-12,2e-05,True,True

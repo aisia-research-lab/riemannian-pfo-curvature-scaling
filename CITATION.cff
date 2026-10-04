@@ -1,0 +1,8 @@
+cff-version: 1.2.1
+title: "Reproducibility Artifact for Curvature, Scaling, and Complexity in Riemannian Projection-Free Optimization"
+type: software
+authors:
+  - name: "Binh T. Nguyen"
+version: 1.0.0
+date-released: 2026-10-04
+license: MIT
